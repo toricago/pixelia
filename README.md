@@ -1,1 +1,1 @@
-# Build and Deploy a Full Stack MERN AI Image Generation App MidJourney & DALL E
+A website that user can generate images using DALL-E open ai, and can share it to the web's community
